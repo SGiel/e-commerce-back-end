@@ -22,7 +22,7 @@
 ## Usage
   [Link to E-Commerce Back-End application walk-through video Part 1](https://drive.google.com/file/d/1nQEDAgLkIct5xOc0sfg9iBd4K-h12Ey3/view) 
 
-  [Link to E-Commerce Back-End application walk-through video Part 2](hhttps://drive.google.com/file/d/1NDhD521c0Ze9k9MjnLVp64bgeJiIrSts/view) 
+  [Link to E-Commerce Back-End application walk-through video Part 2](https://drive.google.com/file/d/1NDhD521c0Ze9k9MjnLVp64bgeJiIrSts/view) 
 
 ## License  
   
